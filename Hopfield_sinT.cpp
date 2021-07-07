@@ -7,7 +7,7 @@
 
 using namespace std;
 
-#define N 10 // N*N dimensón de la red
+#define N 200 // N*N dimensón de la red
 #define pasos_montecarlo 10000
 #define T 0.005
 #define P 28 //num de patrones que introducimos
